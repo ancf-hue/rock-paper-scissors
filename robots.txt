@@ -1,0 +1,6 @@
+# Разрешить всем поисковым роботам индексацию
+User-agent: *
+Allow: /
+
+# Указать путь к карте сайта
+Sitemap: https://rock-paper-scissors-beta-hazel.vercel.app/sitemap.xml
