@@ -41,7 +41,7 @@
 ##  Установка
 
 ### Вариант 1: Открыть в браузере
-Просто перейдите по ссылке: **[anti-ai-artificial-intelligen.pages.dev](https://anti-ai-artificial-intelligen.pages.dev)**
+Просто перейдите по ссылке:https://rock-paper-scissors-beta-hazel.vercel.app
 
 ### Вариант 2: Установить как PWA
 1. Откройте сайт в браузере Chrome/Edge
